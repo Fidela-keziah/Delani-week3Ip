@@ -15,13 +15,12 @@
 * JavaScript
 * Bootstrap
 * Jquery
-## How Delani studio Project look
 ## BDD
 * Enter  your name
 * Enter your email
 * Add a comment
 * submit
 ## Contact Information
-{feel free to contact me via E-mail: irafidela@gmail.com in case you need any support or contribution.}
+Feel free to contact me via E-mail: irafidela@gmail.com in case you need any support or contribution.
 ### License
 * MIT license,Copyright (c) {2021} **{Fidela-keziah}**
