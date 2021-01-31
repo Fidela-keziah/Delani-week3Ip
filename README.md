@@ -2,7 +2,7 @@
 #### Delani Studio Project, 18 January 2021
 #### Author : Fidela-keziah
 ## Description
-{Delani Studio Project contains activities of the studio and more information about it like  welcome page,about us ,services studio can offer,what we do,portfolio and contacts where you can found adelani studio . }
+Delani Studio Project contains activities of the studio and more information about it like  welcome page,about us ,services studio can offer,what we do,portfolio and contacts where you can found adelani studio 
 ## Setup/Installation Requirements
 * UBUNTU
 * Open Terminal
@@ -21,6 +21,6 @@
 * Add a comment
 * submit
 ## Contact Information
-For Any query or support feel free to contact me via E-mail: irafidela@gmail.com in case you need any support or contribution.
+For any query or support feel free to contact me via E-mail: irafidela@gmail.com in case you need any support or contribution.
 ### License
 * MIT license,Copyright (c) {2021} **{Fidela-keziah}**
