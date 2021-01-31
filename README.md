@@ -2,7 +2,7 @@
 #### Delani Studio Project, 18 January 2021
 #### Author : Fidela-keziah
 ## Description
-Delani Studio Project contains activities of a studio and displays more information about it; such as  welcome page,about us ,services studio can offer,what we do,portfolio and contacts where you can found adelani studio 
+Delani Studio Project contains activities of a studio and displays more information about it; such as a welcome page,about us,services the studio can offer,portfolio and contacts where you can found adelani studio 
 ## Setup/Installation Requirements
 * UBUNTU
 * Open Terminal
