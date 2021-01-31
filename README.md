@@ -21,6 +21,6 @@ Delani Studio Project contains activities of the studio and more information abo
 * Add a comment
 * submit
 ## Contact Information
-For any query or support feel free to contact me via E-mail: irafidela@gmail.com in case you need any support or contribution.
+For any query or support feel free to contact me via E-mail: irafidela@gmail.com.
 ### License
 * MIT license,Copyright (c) {2021} **{Fidela-keziah}**
