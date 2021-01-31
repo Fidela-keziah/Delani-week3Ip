@@ -1,5 +1,5 @@
-# {Delani Studio}
-#### {Delani Studio Project}, {4 October 2020}
+# Delani Studio
+#### {Delani Studio Project}, 18 January 2020
 #### By **{Fidela-keziah}**
 ## Description
 {Delani Studio Project contains activities of the studio and more information about it like  welcome page,about us ,services studio can offer,what we do,portfolio and contacts where you can found adelani studio . }
