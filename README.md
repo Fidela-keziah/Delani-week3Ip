@@ -1,13 +1,13 @@
 # Delani Studio
-#### {Delani Studio Project}, 18 January 2020
-#### By **{Fidela-keziah}**
+#### Delani Studio Project, 18 January 2021
+#### Author : Fidela-keziah
 ## Description
 {Delani Studio Project contains activities of the studio and more information about it like  welcome page,about us ,services studio can offer,what we do,portfolio and contacts where you can found adelani studio . }
 ## Setup/Installation Requirements
 * UBUNTU
 * Open Terminal
 * Google Chrome
-* internet
+* Visual Studio
 * [git clone] (https://github.com/Fidela-keziah/Delani-week3Ip.git)
 ## Technologies Used
 * HTML
