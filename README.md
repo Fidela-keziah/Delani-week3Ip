@@ -8,7 +8,7 @@
 * Open Terminal
 * Google Chrome
 * internet
-* [git clone] ()
+* [git clone] (https://github.com/Fidela-keziah/Delani-week3Ip.git)
 ## Technologies Used
 * HTML
 * CSS
